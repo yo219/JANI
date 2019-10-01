@@ -1,0 +1,16 @@
+{
+    "name": "Group assignment",
+    "endpoint": "icbs/bs1034/fa19/hw03",
+    "src": [
+        "homework_3.ipynb"
+    ],
+    "tests": {
+		"tests/check.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "analytics",
+        "backup"
+    ]
+}
